@@ -15,6 +15,9 @@
 
 <details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aetherance&layout=donut-vertical)]
+<center>
 
-<summary>编程语言统计
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aetherance&layout=compact)]
+
+<center>
+<summary>语言统计
