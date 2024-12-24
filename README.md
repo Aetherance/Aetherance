@@ -10,10 +10,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aetherance&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Static Badge](https://img.shields.io/badge/build-INK-brightgreen?style=flat&logo=LeetCode&logoColor=%23EEEE00&logoSize=1024&label=LeetCode&labelColor=%23B0C4DE&color=%2387CEEB)
-](https://leetcode.cn/u/aetherance)
-[![Static Badge](https://img.shields.io/badge/build-INK-brightgreen?style=flat&logo=LeetCode&logoColor=%23EEEE00&logoSize=1024&label=CSDN&labelColor=%23B0C4DE&color=%#EEEE00)
-](https://blog.csdn.net/weixin_74355874)
+![Static Badge](https://img.shields.io/badge/LeetCode-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%238DB6CD)
+
 
 
 <details>
