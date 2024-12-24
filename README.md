@@ -12,7 +12,7 @@
 
 [![Static Badge](https://img.shields.io/badge/build-INK-brightgreen?style=flat&logo=LeetCode&logoColor=%23EEEE00&logoSize=1024&label=LeetCode&labelColor=%23B0C4DE&color=%2387CEEB)
 ](https://leetcode.cn/u/aetherance)
-[![Static Badge](https://img.shields.io/badge/build-INK-brightgreen?style=flat&logo=LeetCode&logoColor=%23EEEE00&logoSize=1024&label=CSDN&labelColor=%23B0C4DE&color=%2387CEEB)
+[![Static Badge](https://img.shields.io/badge/build-INK-brightgreen?style=flat&logo=LeetCode&logoColor=%23EEEE00&logoSize=1024&label=CSDN&labelColor=%23B0C4DE&color=%#EEEE00)
 ](https://blog.csdn.net/weixin_74355874)
 
 
