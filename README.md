@@ -12,8 +12,8 @@
 
 <center>
 
-![Static Badge](https://img.shields.io/badge/LeetCode-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%238DB6CD)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![Static Badge](https://img.shields.io/badge/CSDN.NET-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%234A708B)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![Static Badge](https://img.shields.io/badge/LeetCode-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%238DB6CD)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![Static Badge](https://img.shields.io/badge/CSDN.NET-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%234A708B)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![Static Badge](https://img.shields.io/badge/THEBLOG-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%234A708B)
 
 <center>
