@@ -14,7 +14,7 @@
 
 ![Static Badge](https://img.shields.io/badge/LeetCode-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%238DB6CD)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![Static Badge](https://img.shields.io/badge/CSDN.NET-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%234A708B)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![Static Badge](https://img.shields.io/badge/THEBLOG-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%234A708B)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![Static Badge](https://img.shields.io/badge/THEBLOG-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%234A708B)
 
 <p>
 
@@ -22,4 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aetherance&layout=compact)]
 
-<summary>语言统计&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<summary>语言统计
