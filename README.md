@@ -26,5 +26,3 @@
 
 <center>
 <summary>语言统计
-
-trdy
