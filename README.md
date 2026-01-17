@@ -23,14 +23,14 @@
 <summary>语言统计 -->
 
 
-# Hi, I'm Aetherance 👋
+# Hi, I'm Aether 👋
 
 🎓 CS Student @ XUPT  
 💻 System Programmer | Linux Enthusiast
 
 ## 🛠 Tech Stack
 - **Languages**: C/C++, Golang
-- **Environment**: ArchLinux + Hyprland
+- **Environment**: ArchLinux + i3wm
 - **Tools**: Git, Vscode , Vim , Linux CLI
 
 ## 🌱 Learning
@@ -43,4 +43,4 @@
 
 ---
 
-*Coding in terminal with Arch & Hyprland 🐧*
+*Coding in terminal with Arch & i3wm|Hyprland 🐧*
